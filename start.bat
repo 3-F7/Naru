@@ -1,2 +1,0 @@
-Naru.py
-PAUSE
